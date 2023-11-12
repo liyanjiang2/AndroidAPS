@@ -32,6 +32,7 @@ DEV:
   `STORE_PASSWORD`: Store password of your key store file.
 * Trigger build in Github Actions
 * Download the `aaps.zip` file in `Artifacts`
+* 
 
 ### 如果你熟悉安卓开发：
 * 克隆此代码仓库到你自己的Github账号
@@ -72,4 +73,4 @@ Please follow these steps:
 <a href="/Documentation/screen1.png"><img src="/Documentation/screen1.png?raw=true" alt="Screenshot of Actions secrets" width="800"></a>  
   `KEY_ALIAS`, `KEY_PASSWORD`, `STORE_FILE`, `STORE_PASSWORD`，这些变量的值都在群中。
 * 在Github Actions中触发编译
-* 下载`Artifacts`中的编译产物`aaps.zip`
+* 下载`Artifacts`中的编译产物`aaps.zip` 
